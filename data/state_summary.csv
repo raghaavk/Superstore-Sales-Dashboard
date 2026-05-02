@@ -1,0 +1,50 @@
+state,region,Revenue,Orders,Avg_order
+California,West,446306.46,1002,445.42
+New York,East,306361.15,547,560.08
+Texas,Central,168572.53,480,351.19
+Washington,West,135206.85,254,532.31
+Pennsylvania,East,116276.65,285,407.99
+Florida,South,88436.53,197,448.92
+Illinois,Central,79236.52,270,293.47
+Michigan,Central,76136.07,116,656.35
+Ohio,East,75130.35,227,330.97
+Virginia,South,70636.72,115,614.23
+North Carolina,South,55165.96,134,411.69
+Indiana,Central,48718.4,70,695.98
+Georgia,South,48219.11,87,554.24
+Kentucky,South,36458.39,59,617.94
+Arizona,West,35272.66,107,329.65
+New Jersey,East,34610.97,58,596.74
+Colorado,West,31841.6,78,408.23
+Wisconsin,Central,31173.43,52,599.49
+Tennessee,South,30661.87,91,336.94
+Minnesota,Central,29863.15,44,678.71
+Massachusetts,East,28634.43,62,461.85
+Delaware,East,27323.0,43,635.42
+Maryland,East,23705.52,46,515.34
+Rhode Island,East,22525.03,24,938.54
+Missouri,Central,22205.15,30,740.17
+Oklahoma,Central,19683.39,34,578.92
+Alabama,South,19510.64,34,573.84
+Oregon,West,17284.46,55,314.26
+Nevada,West,16729.1,23,727.35
+Connecticut,East,13384.36,45,297.43
+Arkansas,South,11678.13,27,432.52
+Utah,West,11220.06,26,431.54
+Mississippi,South,10771.34,26,414.28
+Louisiana,South,9131.05,20,456.55
+Vermont,East,8929.37,6,1488.23
+South Carolina,South,8481.71,20,424.09
+Nebraska,Central,7464.93,23,324.56
+New Hampshire,East,7292.52,17,428.97
+Montana,West,5589.35,8,698.67
+New Mexico,West,4783.52,22,217.43
+Iowa,Central,4443.56,16,277.72
+Idaho,West,4382.49,11,398.41
+Kansas,Central,2914.31,14,208.16
+District of Columbia,East,2865.02,4,716.26
+Wyoming,West,1603.14,1,1603.14
+South Dakota,Central,1315.56,5,263.11
+Maine,East,1270.53,3,423.51
+West Virginia,East,1209.82,2,604.91
+North Dakota,Central,919.91,2,459.96
