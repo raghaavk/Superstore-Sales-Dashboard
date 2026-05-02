@@ -168,10 +168,10 @@ open output/dashboard.html
 
 ## 👤 Author
 
-**Aryan Mehta**
+**Raghav Kapoor**
 B.Tech Information Technology
-📧 aryan.mehta@email.com
-🔗 [LinkedIn](https://linkedin.com/in/aryanmehta) | [GitHub](https://github.com/aryanmehta)
+📧 raaga2604@gmail.com
+🔗 [LinkedIn] (https://www.linkedin.com/in/raghav-kapoorr) | [GitHub](https://github.com/raghaavk)
 
 ---
 
